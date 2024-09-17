@@ -57,6 +57,7 @@ public class SubscriptionEndpoints : IEndpoints
     
     private static async Task<IResult> GetSubscriptionByIdAsync(Guid id, ISender mediator)
     {
+        //Testing git
         var query = new GetSubscriptionQuery(id);
         var result = await mediator.Send(query);
         
