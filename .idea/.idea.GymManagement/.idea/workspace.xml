@@ -8,102 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34afa305-bfef-4be8-adfc-12f8d20a02fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/dataSources/2f5719f5-33ab-4aa4-86eb-527be33fae24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/dataSources/2f5719f5-33ab-4aa4-86eb-527be33fae24/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-14T212649.200.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-14T222829.400.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-14T223154.400.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-14T223237.400.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-14T223313.400.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-14T223720.400.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-14T224504.400.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-14T224654.400.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-14T224853.200.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-15T120606.200.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-15T120701.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-15T130639.500.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-15T130848.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-15T131911.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-15T140351.400.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-15T140422.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-15T145348.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-15T182208.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T111722.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T111746.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T111749.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T111918.500.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T112003.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T112320.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T112409.500.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T112528.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T112536.200.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T112555.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T112600.200.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T112619.200.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T115119.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T115131.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T115152.200.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T115216.200.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T130537.500.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T131412.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T132515.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T133257.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T133317.400.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T193948.400.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T195059.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-16T202219.400.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-17T094738.400.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/2024-09-17T094749.201.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/http-client.cookies" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GymManagement/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Api/Endpoints/CommonEndpoints.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Api/Endpoints/Internal/EndPointExtensions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Api/Endpoints/Internal/IEndpoints.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Api/Endpoints/Subscriptions/SubscriptionEndpoints.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Api/GymManagement.Api.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Api/GymManagement.Api.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Api/GymManagement.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Api/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Api/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Api/Validators/SubscriptionValidator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Api/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Api/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Application/Common/Interfaces/ISubscriptionsRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Application/Common/Interfaces/IUnitOfWork.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Application/DependencyInjection.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Application/GymManagement.Application.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Application/Subscriptions/Commands/CreateSubscription/CreateSubscriptionCommand.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Application/Subscriptions/Commands/CreateSubscription/CreateSubscriptionCommandHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Application/Subscriptions/Queries/GetSubscription/GetSubscriptionQuery.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Application/Subscriptions/Queries/GetSubscription/GetSubscriptionQueryHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Contracts/GymManagement.Contracts.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Contracts/Subscriptions/CreateSubscriptionRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Contracts/Subscriptions/SubscriptionResponse.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Contracts/Subscriptions/SubscriptionType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Domain/GymManagement.Domain.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Domain/Subscriptions/Subscription.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Domain/Subscriptions/SubscriptionType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Infrastructure/Common/Persistence/GymManagementDbContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Infrastructure/Common/Persistence/SubscriptionConfiguration.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Infrastructure/DependencyInjection.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Infrastructure/GymManagement.Infrastructure.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Infrastructure/Migrations/20240916174628_InitialCreate.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Infrastructure/Migrations/20240916174628_InitialCreate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Infrastructure/Migrations/20240916190332_UpdateSubscriptionTypeEnum.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Infrastructure/Migrations/20240916190332_UpdateSubscriptionTypeEnum.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Infrastructure/Migrations/GymManagementDbContextModelSnapshot.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.Infrastructure/Subscriptions/Persistence/SubscriptionsRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GymManagement.sln.DotSettings.user" afterDir="false" />
-    </list>
+    <list default="true" id="34afa305-bfef-4be8-adfc-12f8d20a02fc" name="Changes" comment="Clean archiqutecture getting started" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,6 +27,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hquezada92/DtrainCleanArchitecture.git",
+    "accountId": "7370d117-0952-4719-9267-509bd96dfc5d"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/a3d113b54764431792186a5608f0087db2d000/22/30e4b063/MethodBaseInvoker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f4bc324a395d24ed12db75b0a81536b642509aa14825bf114d9b7c934e2b/Mediator.cs" root0="FORCE_HIGHLIGHTING" />
@@ -215,8 +126,17 @@
       <workItem from="1726368593675" duration="6919000" />
       <workItem from="1726423345294" duration="18167000" />
       <workItem from="1726502231769" duration="17561000" />
-      <workItem from="1726588024212" duration="579000" />
+      <workItem from="1726588024212" duration="920000" />
     </task>
+    <task id="LOCAL-00001" summary="Clean archiqutecture getting started">
+      <option name="closed" value="true" />
+      <created>1726588730417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726588730417</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,6 +147,8 @@
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Clean archiqutecture getting started" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clean archiqutecture getting started" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
