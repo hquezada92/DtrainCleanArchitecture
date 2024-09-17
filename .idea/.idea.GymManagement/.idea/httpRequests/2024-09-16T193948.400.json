@@ -1,0 +1,15 @@
+[
+  {
+    "propertyName": "",
+    "errorMessage": "Invalid Subscription Type",
+    "attemptedValue": false,
+    "customState": null,
+    "severity": 0,
+    "errorCode": "NotEmptyValidator",
+    "formattedMessagePlaceholderValues": {
+      "PropertyName": null,
+      "PropertyValue": false,
+      "PropertyPath": ""
+    }
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "propertyName": "SubscriptionType",
+    "errorMessage": "Invalid subscription type",
+    "attemptedValue": "NotDefined",
+    "customState": null,
+    "severity": 0,
+    "errorCode": "PredicateValidator",
+    "formattedMessagePlaceholderValues": {
+      "PropertyName": "Subscription Type",
+      "PropertyValue": "NotDefined",
+      "PropertyPath": "SubscriptionType"
+    }
+  }
+]

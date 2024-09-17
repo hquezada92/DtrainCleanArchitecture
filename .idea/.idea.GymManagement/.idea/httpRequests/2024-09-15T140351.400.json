@@ -1,0 +1,11 @@
+[
+  {
+    "propertyName": "SubscriptionType",
+    "errorMessage": "A subscription already exists",
+    "attemptedValue": null,
+    "customState": null,
+    "severity": 0,
+    "errorCode": null,
+    "formattedMessagePlaceholderValues": null
+  }
+]

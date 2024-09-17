@@ -1,0 +1,15 @@
+[
+  {
+    "propertyName": "SubscriptionType",
+    "errorMessage": "'Subscription Type' must not be empty.",
+    "attemptedValue": "Free",
+    "customState": null,
+    "severity": 0,
+    "errorCode": "NotEmptyValidator",
+    "formattedMessagePlaceholderValues": {
+      "PropertyName": "Subscription Type",
+      "PropertyValue": "Free",
+      "PropertyPath": "SubscriptionType"
+    }
+  }
+]
